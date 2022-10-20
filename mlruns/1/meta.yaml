@@ -1,0 +1,4 @@
+artifact_location: file:///D:/Projects/Kaggle%20Competition/GreenFlag/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: stolen_phones_program

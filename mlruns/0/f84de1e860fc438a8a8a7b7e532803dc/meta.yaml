@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Kaggle%20Competition/GreenFlag/mlruns/0/f84de1e860fc438a8a8a7b7e532803dc/artifacts
+end_time: 1666196956903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f84de1e860fc438a8a8a7b7e532803dc
+run_uuid: f84de1e860fc438a8a8a7b7e532803dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666196955464
+status: 3
+tags: []
+user_id: ashwi
